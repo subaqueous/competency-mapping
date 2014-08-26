@@ -1,0 +1,80 @@
+body {
+	font-size:14px;
+	font-family: Arial;
+	line-height: 1.5;
+}
+
+main {
+	width:100%;
+}
+
+header {
+	margin-bottom:10px;
+	width:80%;
+	vertical-align:middle;
+	/*box-shadow: 0px 5px 3px rgba(0,0,0,0.25);*/
+}
+
+select {
+	margin-top:10px;
+	font-size:1em;
+}
+
+nav ul {
+	background: background: rgba(255, 255, 255, 0.1); 
+	vertical-align: middle;
+	padding: 0 0.625em;
+	/*margin-left:1.25em;*/
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+
+nav ul li a {
+		display: block; padding: 1em 2em;
+		color: #003c7d; text-decoration: none;
+		font-size:1.15em;
+	}
+
+nav ul li a:hover {
+		color:#fff;
+	}
+
+nav ul li:hover {
+	background: #003c7d;
+}
+
+li {
+	float:left;
+	vertical-align:middle;
+}
+
+select {
+	width: auto;
+	height: 2em;
+	margin-bottom:5px;
+}
+
+
+#firstCourse {
+
+}
+
+#logo {
+	/*width:80%;*/
+	height:auto;
+	float:left;
+	vertical-align:middle;
+	margin-left:10%;
+	margin-right:-10%;
+	z-index: 999;
+	vertical-align:;
+}
+
+#welcome {
+	width:80%;
+	margin: 50px;
+	padding:50px;
+	font-size:2em;
+}
+
